@@ -1,8 +1,67 @@
-# Eduspark
+# 🎓 EduSpark – Education Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EduSpark is a responsive and animated React-based education landing page. It includes smooth transitions, AOS animations, and component-based architecture for scalability and maintainability.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- ✨ Modern UI with smooth animations (AOS)
+- 🧩 Modular component structure
+- 🎥 Integrated video play modal
+- 💬 Testimonials section
+- 📷 Campus gallery
+- 📞 Contact form
+
+---
+
+## 🛠️ Built With
+
+- [React.js](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [AOS (Animate on Scroll)](https://michalsnik.github.io/aos/)
+- CSS Modules / Plain CSS
+
+---
+## 📁 Project Structure
+
+Eduspark/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── component/
+│ │ ├── navbar/
+│ │ ├── Hero/
+│ │ ├── program/
+│ │ ├── Title/
+│ │ ├── about/
+│ │ ├── campus/
+│ │ ├── testimonials/
+│ │ ├── Contact/
+│ │ ├── footer/
+│ │ └── videoplay/
+│ ├── App.jsx
+│ ├── App.css
+│ └── main.jsx
+├── package.json
+└── README.md
+
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+```bash
+https://github.com/NishuRajput12/EduSpark.git
+cd eduspark
+### 1. Clone the repository
+
+npm install
+npm run dev
+
+
+
+## 📁 Project Structure
+
