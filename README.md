@@ -23,31 +23,6 @@ EduSpark is a responsive and animated React-based education landing page. It inc
 - CSS Modules / Plain CSS
 
 ---
-## 📁 Project Structure
-
-Eduspark/
-├── public/
-├── src/
-│ ├── assets/
-│ ├── component/
-│ │ ├── navbar/
-│ │ ├── Hero/
-│ │ ├── program/
-│ │ ├── Title/
-│ │ ├── about/
-│ │ ├── campus/
-│ │ ├── testimonials/
-│ │ ├── Contact/
-│ │ ├── footer/
-│ │ └── videoplay/
-│ ├── App.jsx
-│ ├── App.css
-│ └── main.jsx
-├── package.json
-└── README.md
-
-
----
 
 ## 🧑‍💻 Getting Started
 
@@ -56,10 +31,7 @@ Eduspark/
 ```bash
 git clone https://github.com/NishuRajput12/EduSpark.git
 cd EduSpark
-
-
-
-
-
+npm install
+npm run dev
 
 
