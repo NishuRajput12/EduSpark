@@ -1,17 +1,17 @@
 import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
-import Navbar from './component/navbar/Navbar'
-import Hero from './component/Hero/Hero'
-import Program from './component/program/Program'
-import Title from './component/Title/Title'
-import About from './component/about/About'
-import Campus from './component/campus/Campus'
-import Testimonials from './component/testimonials/testimonials'
-import Contact from './component/Contact/contact'
-import Footer from './component/footer/Footer'
-import Videoplay from './component/videoplay/Videoplay'
+import Navbar from './component/navbar/Navbar';
+import Hero from './component/Hero/Hero';
+import Program from './component/program/Program';
+import Title from './component/Title/Title';
+import About from './component/about/About';
+import Campus from './component/campus/Campus';
+import Testimonials from './component/testimonials/Testimonials'; 
+import Contact from './component/Contact/Contact';
+import Footer from './component/footer/Footer';
+import Videoplay from './component/videoplay/Videoplay';
+
 
 function App() {
   let [ playState,setPlayState]=useState( false);
