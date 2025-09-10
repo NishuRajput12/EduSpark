@@ -2,7 +2,8 @@ import { useState } from 'react'
 // import reactLogo from './assets/react.svg'
 import './App.css'
 import Navbar from './component/navbar/Navbar';
-import Hero from './component/Hero/Hero';
+import Hero from './component/hero/Hero';
+
 import Program from './component/program/Program';
 import Title from './component/Title/Title';
 import About from './component/about/About';
