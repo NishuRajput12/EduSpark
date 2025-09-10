@@ -7,7 +7,8 @@ import Program from './component/program/Program';
 import Title from './component/title/Title';   
 import About from './component/about/About';
 import Campus from './component/campus/Campus';
-import Testimonials from './component/testimonials/Testimonials'; 
+import Testimonials from './component/testimonials/testimonials';
+
 import Contact from './component/Contact/Contact';
 import Footer from './component/footer/Footer';
 import Videoplay from './component/videoplay/Videoplay';
